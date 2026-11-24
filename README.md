@@ -52,4 +52,12 @@ For platforms operating across APAC and global markets under W3C Standards and A
 
 ***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/au/
+* **Diagnostic Suite:** https://tools.tavardt.com/au/
+* **Technical Contact:** https://ag.tavardt.com/au/contact/
+
+***
+
 © 2026 TAVARDT. All rights reserved.
