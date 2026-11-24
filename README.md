@@ -1,14 +1,13 @@
 # Hreflang and International SEO Validator
 
 [![Hreflang Validator](https://img.shields.io/badge/TAVARDT-Hreflang-5b3cf5.svg)](https://tools.tavardt.com/au/hreflang-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-Australia-00C853.svg)](https://ag.tavardt.com/au/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audits alternate return tags, en-AU regional targeting, and global x-default architecture.
 
-Developed and maintained by the digital systems and search architecture division of **[TAVARDT Australia](https://ag.tavardt.com/au/)**.
+Developed and maintained by the digital systems and search architecture division of **TAVARDT Australia**.
 
----
+***
 
 ## International SEO and Hreflang Audit Capabilities
 
@@ -18,7 +17,7 @@ Developed and maintained by the digital systems and search architecture division
 * **x-default Fallback Inspection**: Verifies global fallback routing for international visitors outside targeted markets.
 * **Canonical Tag Consistency**: Ensures complete alignment between canonical URLs and hreflang self-references.
 
----
+***
 
 ## Installation and Execution
 
@@ -33,20 +32,20 @@ python hreflang_validator.py https://company.com.au
 To output results in structured JSON format:
 
 ```bash
-python hreflang_validator.py https://company.com.au --json
+python hreflang_validator.py https://company.com.au -json
 ```
 
----
+***
 
 ## Comprehensive Web Diagnostic
 
 For full web verification and deep multi-region audits:
 
-* **[Official Hreflang Checker Tool](https://tools.tavardt.com/au/hreflang-checker/)**
-* **[TAVARDT Australia Enterprise Portal](https://ag.tavardt.com/au/)**
+* **Official Hreflang Checker Tool**
+* **TAVARDT Australia Enterprise Portal**
 
----
+***
 
 ## International SEO and Cross-Border Digital Advisory
 
-For platforms operating across APAC and global markets under W3C Standards and Australian Digital Service Guidelines, contact **[TAVARDT Australia](https://ag.tavardt.com/au/contact/)**.
+For platforms operating across APAC and global markets under W3C Standards and Australian Digital Service Guidelines, contact **TAVARDT Australia**.
