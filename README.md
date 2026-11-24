@@ -5,7 +5,7 @@
 
 Audits alternate return tags, en-AU regional targeting, and global x-default architecture.
 
-Developed and maintained by the digital systems and search architecture division of **TAVARDT Australia**.
+Developed and maintained by the digital systems and search architecture division of **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python hreflang_validator.py https://company.com.au -json
 For full web verification and deep multi-region audits:
 
 * **Official Hreflang Checker Tool**
-* **TAVARDT Australia Enterprise Portal**
+* **TAVARDT Enterprise Portal**
 
 ***
 
 ## International SEO and Cross-Border Digital Advisory
 
-For platforms operating across APAC and global markets under W3C Standards and Australian Digital Service Guidelines, contact **TAVARDT Australia**.
+For platforms operating across APAC and global markets under W3C Standards and Australian Digital Service Guidelines, contact **TAVARDT**.
 
 ***
 
